@@ -1,0 +1,5 @@
+PuFGGs = {}
+
+PuFGGs.JUST_2_VIEW_MODE = false
+PuFGGs.FPS_MODE_DRIVEBY = false
+PuFGGs.FPS_MODE_ONFOOT = false
